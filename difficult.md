@@ -2,53 +2,53 @@
 
 ## 低难度、
 
-[(Adapter)](adapter/README.md) </br>
-[(Balking)](balking/README.md)</br>
-[模式(Callback)](callback/README.md)</br>
-[模式(Collection Pipeline)](collection-pipeline/README.md)</br>
-[模式(Converter)](converter/README.md)</br>
-[模式(Data Access Object)](dao/README.md)</br>
-[模式(Data Mapper)](data-mapper/README.md)</br>
-[模式(Data Transfer Object)](data-transfer-object/README.md)</br>
-[模式(Decorator)](decorator/README.md)</br>
-[模式(Delegation)](delegation/README.md)</br>
-[模式(Dependency Injection)](dependency-injection/README.md)</br>
-[模式(Dirty Flag)](dirty-flag/README.md)</br>
-[模式(Double Checked Locking)](double-checked-locking/README.md)</br>
-[模式(Event Aggregator)](event-aggregator/README.md)</br>
-[模式(Execute Around)](execute-around/README.md)</br>
-[模式(Facade)](facade/README.md)</br>
-[模式(Factory Kit)](factory-kit/README.md)</br>
-[模式(Factory Method)](factory-method/README.md)</br>
-[模式(Feature Toggle)](feature-toggle/README.md)</br>
-[模式(Guarded Suspension)](guarded-suspension/README.md)</br>
-[模式(Iterator)](iterator/README.md)</br>
-[模式(Lazy Loading)](lazy-loading/README.md)</br>
-[模式(Marker)](marker/README.md)</br>
-[模式(Module)](module/README.md)</br>
-[模式(Monostate)](monostate/README.md)</br>
-[模式(Multiton)](multiton/README.md)</br>
-[模式(Mute Idiom)](mute-idiom/README.md)</br>
-[模式(Null Object)](null-object/README.md)</br>
-[模式(Object Mother)](object-mother/README.md)</br>
-[模式(Object Pool)](object-pool/README.md)</br>
-[模式(Observer)](observer/README.md)</br>
-[模式(Partial Response)](partial-response/README.md)</br>
-[模式(Private Class Data)](private-class-data/README.md)</br>
-[模式(Property)](property/README.md)</br>
-[模式(Prototype)](prototype/README.md)</br>
-[模式(Proxy)](proxy/README.md)</br>
-[模式(Resource Acquisition Is Initialization)](resource-acquisition-is-initialization/README.md)</br>
-[模式(Servant)](servant/README.md)</br>
-[模式(Service Locator)](service-locator/README.md)</br>
-[模式(Singleton)](singleton/README.md)</br>
-[模式(Specification)](specification/README.md)</br>
-[模式(Strategy)](strategy/README.md)</br>
-[模式(Template Method)](template-method/README.md)</br>
-[模式(Throttling)](throttling/README.md)</br>
-[模式(Tolerant-reader)](tolerant-reader/README.md)</br>
-[模式(Unit Of Work)](unit-of-work/README.md)</br>
-[模式(Value Object)](value-object/README.md)</br>
+[适配器模式(Adapter)](adapter/README.md) </br>
+[慢行模式(Balking)](balking/README.md)</br>
+[回调模式(Callback)](callback/README.md)</br>
+[集合管道模式(Collection Pipeline)](collection-pipeline/README.md)</br>
+[转换模式(Converter)](converter/README.md)</br>
+[数据访问对象(DAO)模式(Data Access Object)](dao/README.md)</br>
+[数据映射模式(Data Mapper)](data-mapper/README.md)</br>
+[数据传输对象模式(Data Transfer Object)](data-transfer-object/README.md)</br>
+[装饰器模式(Decorator)](decorator/README.md)</br>
+[委托代理模式(Delegation)](delegation/README.md)</br>
+[依赖注入模式(Dependency Injection)](dependency-injection/README.md)</br>
+[脏标志模式(Dirty Flag)](dirty-flag/README.md)</br>
+[双重检查锁模式(Double Checked Locking)](double-checked-locking/README.md)</br>
+[事件聚合模式(Event Aggregator)](event-aggregator/README.md)</br>
+[环绕执行模式(Execute Around)](execute-around/README.md)</br>
+[外观模式，门面模式(Facade)](facade/README.md)</br>
+[工厂模式(Factory Kit)](factory-kit/README.md)</br>
+[工厂方法模式(Factory Method)](factory-method/README.md)</br>
+[特性切换模式(Feature Toggle)](feature-toggle/README.md)</br>
+[保护性暂挂模式模式(Guarded Suspension)](guarded-suspension/README.md)</br>
+[迭代模式(Iterator)](iterator/README.md)</br>
+[懒加载模式(Lazy Loading)](lazy-loading/README.md)</br>
+[标记模式(Marker)](marker/README.md)</br>
+[模块模式(Module)](module/README.md)</br>
+[单一状态模式(Monostate)](monostate/README.md)</br>
+[多例模式(Multiton)](multiton/README.md)</br>
+[静音成语模式（（不懂翻译））(Mute Idiom)](mute-idiom/README.md)</br>
+[空对象模式(Null Object)](null-object/README.md)</br>
+[对象母亲模式(Object Mother)](object-mother/README.md)</br>
+[对象池模式(Object Pool)](object-pool/README.md)</br>
+[观察者模式(Observer)](observer/README.md)</br>
+[部分回应模式(Partial Response)](partial-response/README.md)</br>
+[私有类模式(Private Class Data)](private-class-data/README.md)</br>
+[属性模式(Property)](property/README.md)</br>
+[原型模式(Prototype)](prototype/README.md)</br>
+[代理模式(Proxy)](proxy/README.md)</br>
+[资源获取就是初始化模式(Resource Acquisition Is Initialization)](resource-acquisition-is-initialization/README.md)</br>
+[佣人模式(Servant)](servant/README.md)</br>
+[服务定位模式(Service Locator)](service-locator/README.md)</br>
+[单例模式(Singleton)](singleton/README.md)</br>
+[规格模式(Specification)](specification/README.md)</br>
+[策略模式(Strategy)](strategy/README.md)</br>
+[模板方法模式(Template Method)](template-method/README.md)</br>
+[节流模式(Throttling)](throttling/README.md)</br>
+[读者容错模式(Tolerant Reader)](tolerant-reader/README.md)</br>
+[工作单元模式(Unit Of Work)](unit-of-work/README.md)</br>
+[值对象（VO）模式(Value Object)](value-object/README.md)</br>
 
 ## 中等难度
 
